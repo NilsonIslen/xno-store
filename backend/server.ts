@@ -189,7 +189,7 @@ const renderOrdersAdmin = (orders: StoreOrder[]) => `
       }
 
       .summary {
-        color: #7b4a54;
+        color: #395f98;
         font-weight: 800;
       }
 
@@ -224,8 +224,8 @@ const renderOrdersAdmin = (orders: StoreOrder[]) => `
       .status {
         padding: 5px 8px;
         border-radius: 999px;
-        color: #7b2438;
-        background: #fff2f5;
+        color: #1d4ed8;
+        background: #eff6ff;
         font-size: 0.78rem;
         font-weight: 900;
       }
@@ -238,7 +238,7 @@ const renderOrdersAdmin = (orders: StoreOrder[]) => `
       }
 
       dt {
-        color: #7b4a54;
+        color: #395f98;
         font-size: 0.78rem;
         font-weight: 900;
         text-transform: uppercase;

@@ -2,8 +2,8 @@
   --text: #514b50;
   --heading: #1f171b;
   --line: rgba(32, 43, 48, 0.12);
-  --accent: #ff5f7e;
-  --accent-strong: #d84364;
+  --accent: #2563eb;
+  --accent-strong: #1d4ed8;
   font-family:
     Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     sans-serif;
@@ -35,6 +35,6 @@ button {
 
 a:focus-visible,
 button:focus-visible {
-  outline: 3px solid rgba(255, 95, 126, 0.3);
+  outline: 3px solid rgba(37, 99, 235, 0.3);
   outline-offset: 2px;
 }
